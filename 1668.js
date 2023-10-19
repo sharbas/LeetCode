@@ -6,7 +6,6 @@
 
 
 
-//
 
 var maxRepeating = function(sequence, word) {
     //to find maximumcount 
